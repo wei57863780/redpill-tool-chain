@@ -1,6 +1,6 @@
 {
   "id": "pocopico.r8125",
-  "url": "https://github.com/tossp/redpill-tool-chain/tree/master/extensions/pocopico-r8125.json",
+  "url": "https://github.com/wei57863780/redpill-tool-chain/blob/master/extensions/pocopico-r8125.json",
   "info": {
     "name": "r8125",
     "description": "Adds Realtek RTL8125 2.5Gigabit Ethernet driver Support",
