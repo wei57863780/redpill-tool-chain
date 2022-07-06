@@ -1,6 +1,6 @@
 {
   "id": "redpill-misc",
-  "url": "https://github.com/tossp/redpill-tool-chain/tree/master/extensions/redpill-misc.json",
+  "url": "https://github.com/wei57863780/redpill-tool-chain/blob/master/extensions/redpill-misc.json",
   "info": {
     "name": "Misc shell",
     "description": "Misc shell",
